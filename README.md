@@ -1,0 +1,1 @@
+A simple demonstration of linear regression using Python's scikit-learn library confirming BMI's importance but also shows that, only this feature is insufficient to predict diabetes in a patient compared to all features combined.
